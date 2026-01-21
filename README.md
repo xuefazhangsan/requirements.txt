@@ -1,2 +1,0 @@
-# requirements.txt
-streamlit pandas requests beautifulsoup4 openpyxl
